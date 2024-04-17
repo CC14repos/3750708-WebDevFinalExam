@@ -1,0 +1,17 @@
+.header{display: flex;
+flex-direction: column;
+min-height: 100vh;
+margin: 0;}
+
+.nav{background-color: black;
+color: #fff;
+padding: 10px;
+text-align: center;}
+
+.main{flex: 1;
+padding: 20px;}
+
+.footer{background-color: black;
+color: #fff;
+padding: 10px;
+text-align: center;}
